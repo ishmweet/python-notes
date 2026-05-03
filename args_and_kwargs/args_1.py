@@ -1,5 +1,4 @@
 # *args = allows you to pass multiple non-key arguments
-# **kwargs = allows you to pass multiple keyord-arguments
 #   * unpacking operator
 
 def add(*args):
